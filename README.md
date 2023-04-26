@@ -1,6 +1,8 @@
 # 3DIFY
 ## Constructing 3D point clouds out of 2D images
 <img src="assets/Screenshot 2023-04-26 at 10.59.23 AM.png"/>
+<iframe src="https://github.com/aman190202/3Dify/blob/main/res/Hit.ply" width="100%" height="600"></iframe>
+
 ### Inspiration
 With the arrival of LiDaR sensors in iPhone 11 Pros, smartphones are now capableof capturing 3D data. Our goal is to enable normal smartphones with the ability to generate 3D data purely out of 2D images.
 
