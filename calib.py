@@ -13,9 +13,9 @@ object_points = []
 image_points = []
 
 # Load the images and detect the calibration pattern
-for i in range(5565, 5579):
+for i in range(17, 28):
     # Load the image
-    img = cv2.imread('calibration_images/IMG_{}.jpg'.format(i))
+    img = cv2.imread('Iphone11/IMG_{}.jpg'.format(i))
 
     # Convert to grayscale
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
