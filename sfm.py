@@ -299,6 +299,6 @@ class Sfm():
         np.savetxt(self.img_obj.path + '/res/' + self.img_obj.image_list[0].split('/')[-2]+'_pose_array.csv', pose_array, delimiter = '\n')
 
 if __name__ == '__main__':
-    sfm = Sfm("satyam_sai")
+    sfm = Sfm("rohanajayramani")
     sfm()
 
